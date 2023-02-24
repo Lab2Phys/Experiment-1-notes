@@ -1,2 +1,2 @@
-# Experiment 1-notes
+# Experiment 1: notes
 جزوه ی مربوط به آزمایش اول: تبدیلات ستاره-مثلث 
